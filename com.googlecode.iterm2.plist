@@ -70,9 +70,9 @@
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>560 466 799 448 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>972 467 570 377 0 0 1920 1057 </string>
+	<string>937 380 585 377 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>401 390 585 452 0 0 1920 1057 </string>
+	<string>401 460 585 377 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>121 323 795 571 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
@@ -329,6 +329,8 @@
 			<real>1</real>
 			<key>Idle Code</key>
 			<integer>0</integer>
+			<key>Initial Text</key>
+			<string>tmux</string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -732,12 +734,12 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1920, 1080}}</string>
 		<key>topLeft</key>
-		<string>{995, 634}</string>
+		<string>{867, 703}</string>
 	</dict>
 	<key>NoSyncInstallationId</key>
 	<string>306A22BA-41BA-4737-8132-9A436004B8D5</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>39</integer>
+	<integer>60</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>622352549.90469694</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
