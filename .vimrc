@@ -43,7 +43,7 @@ noremap <M-k> 10k
 syntax on
 
 "set number
-"set relativenumber
+set relativenumber
 "set noswapfile
 "set linebreak
 "set showbreak=+++
@@ -58,10 +58,10 @@ syntax on
 "set ignorecase
 "set incsearch
 " 
-"set autoindent
-"set shiftwidth=4
-"set smartindent
-"set softtabstop=4
+set autoindent
+set shiftwidth=4
+set smartindent
+set softtabstop=4
 "
 "set ruler
 "set undolevels=1000
