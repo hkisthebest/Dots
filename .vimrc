@@ -2,13 +2,13 @@ set nocompatible
 filetype off           
 set rtp+=~/.vim/bundle/Vundle.vim
 set path+=**
-call vundle#begin()
+"call vundle#begin()
 "call vundle#begin('~/some/path/here')
 
 
-Plugin 'VundleVim/Vundle.vim'
+"Plugin 'VundleVim/Vundle.vim'
 
-call vundle#end()            " required
+"call vundle#end()            " required
 filetype plugin indent on    " required
 vnoremap <D-c> "+y
 map <D-v> "+p
